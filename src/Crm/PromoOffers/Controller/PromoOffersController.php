@@ -60,8 +60,8 @@ class PromoOffersController
 
     # theme variables.
     $controller_vars = array(
-      'page_title' => 'Promotional Offers',
-      'icon_name' => 'fa fa-lemon-o',
+      'page_title' => 'Design Coupons and Emails',
+      'icon_name' => 'fa fa-desktop',
     );
     $template_vars = array(
       'offer_types' => array(''=>'Choose') + $offer_types_a,
@@ -149,8 +149,8 @@ class PromoOffersController
 
     // build variables
     $controller_vars = array(
-      'page_title' => 'Promotional Offers Management',
-      'icon_name' => 'fa fa-lemon-o',
+      'page_title' => 'Design Coupons and Emails',
+      'icon_name' => 'fa fa-desktop',
     );
 
     // render template
@@ -206,8 +206,8 @@ class PromoOffersController
 
     # theme variables.
     $controller_vars = array(
-      'page_title' => 'Promotional Offers',
-      'icon_name' => 'fa fa-lemon-o',
+      'page_title' => 'Design Coupons and Emails',
+      'icon_name' => 'fa fa-desktop',
     );
     $template_vars = array(
       'offer_types' => array(''=>'Choose') + $offer_types_a,

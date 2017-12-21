@@ -13,7 +13,10 @@
           <i class="fa fa-download"></i> Import Data <span class="menu-arrow arrow_carrot-right"></span>
         </a>
         <ul class="sub">
-          <li><a href="/lead/import"><i class="fa fa-th"></i> Import Leads</a></li>
+          <li><a href="/lead/import"><i class="fa fa-th"></i> Leads</a></li>
+          <li><a href="/lead/import"><i class="fa fa-users"></i> Accounts</a></li>
+          <li><a href="/lead/import"><i class="fa fa-inr"></i> Transactions</a></li>
+          <li><a href="/lead/import"><i class="fa fa-align-justify"></i> Contacts</a></li>   
         </ul>
       </li>
       <li class="sub-menu">
@@ -25,6 +28,7 @@
           <li><a href="/accounts/list"><i class="fa fa-users"></i> Accounts</a></li>
           <li><a href="/contacts/list"><i class="fa fa-align-justify"></i> Contacts</a></li>
           <li><a href="/transactions/list"><i class="fa fa-inr"></i> Transactions</a></li>
+          <li><a href="/groups/list"><i class="fa fa-cubes"></i> Groups</a></li>          
         </ul>
       </li>
       <li class="sub-menu">
@@ -32,7 +36,6 @@
           <i class="fa fa-bullhorn"></i> Campaigns <span class="menu-arrow arrow_carrot-right"></span>
         </a>
         <ul class="sub">
-          <li><a href="/"><i class="fa fa-envelope"></i> Email campaign</a></li>
           <li><a href="/"><i class="fa fa-mobile"></i> Mobile campaign</a></li>          
         </ul>
       </li>
@@ -51,7 +54,6 @@
         </a>
         <ul class="sub">
           <li><a href="#"><i class="fa fa-ticket"></i> Coupons</a></li>
-          <li><a href="#"><i class="fa fa-envelope"></i> Email template</a></li>
         </ul>
       </li>
       <li class="sub-menu">

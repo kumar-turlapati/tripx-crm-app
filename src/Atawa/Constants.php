@@ -147,8 +147,8 @@ class Constants
     );
 
     public static $PROMO_OFFER_CATEGORIES_CRM = array(
-       'email'  => 'Email',
-       'mobile'  => 'Mobile',
+       'email'  => 'Email only',
+       'mobile'  => 'Mobile only',
        'emailmobile'  => 'Email or Mobile',
     );
 }
